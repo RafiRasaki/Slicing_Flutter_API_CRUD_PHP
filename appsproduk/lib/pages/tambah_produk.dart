@@ -30,7 +30,7 @@ class _TambahProdukState extends State<TambahProduk> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Tambah Data'),
+        title: Text('Tambah Data Produk'),
         backgroundColor: Colors.blueGrey,
       ),
       body: Form(
